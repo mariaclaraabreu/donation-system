@@ -10,9 +10,9 @@ O intuito dessa aplicação é permitir que ongs possam divulgar casos que estã
  ou whatsapp, cujo redirecionamento para ambos é feito dentro do próprio app (versão mobile).
 
 <h3>Versão web</h3>
-![01](https://user-images.githubusercontent.com/44175992/85349301-85424280-b4d4-11ea-851d-9a584ac0ae9e.jpg)
-![05](https://user-images.githubusercontent.com/44175992/85349303-85dad900-b4d4-11ea-900f-3ea31770e8f4.jpg)
-![02](https://user-images.githubusercontent.com/44175992/85349302-85dad900-b4d4-11ea-86db-094a0d29957f.jpg)
+![01](https://user-images.githubusercontent.com/44175992/85349301-85424280-b4d4-11ea-851d-9a584ac0ae9e.jpg) </br>
+![05](https://user-images.githubusercontent.com/44175992/85349303-85dad900-b4d4-11ea-900f-3ea31770e8f4.jpg) </br>
+![02](https://user-images.githubusercontent.com/44175992/85349302-85dad900-b4d4-11ea-86db-094a0d29957f.jpg) </br>
 
 <h3>Versão mobile</h3>
 
