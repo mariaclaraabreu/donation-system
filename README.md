@@ -1,4 +1,4 @@
-# Sistema para doações
+# Sistema para doações online
 
 O intuito dessa aplicação é permitir que ongs possam divulgar casos que estão sob sua responsabilidade.
 
@@ -16,6 +16,7 @@ O intuito dessa aplicação é permitir que ongs possam divulgar casos que estã
 
 
 <h3>Versão mobile</h3>
+
 ![versaomobile](https://user-images.githubusercontent.com/44175992/85361403-32778380-b4f2-11ea-9dd2-8ffa129fb9ff.png)
 
 
