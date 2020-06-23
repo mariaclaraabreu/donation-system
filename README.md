@@ -1,4 +1,4 @@
-# donation-system
+# Sistema para doações
 
 O intuito dessa aplicação é permitir que ongs possam divulgar casos que estão sob sua responsabilidade.
 
@@ -11,8 +11,11 @@ O intuito dessa aplicação é permitir que ongs possam divulgar casos que estã
 
 <h3>Versão web</h3>
 
+![versaoweb](https://user-images.githubusercontent.com/44175992/85361424-43c09000-b4f2-11ea-9a6e-5957c9035474.png)
+
+
 
 <h3>Versão mobile</h3>
-
+![versaomobile](https://user-images.githubusercontent.com/44175992/85361403-32778380-b4f2-11ea-9dd2-8ffa129fb9ff.png)
 
 
