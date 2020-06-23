@@ -10,14 +10,20 @@ O intuito dessa aplicação é permitir que ongs possam divulgar casos que estã
  ou whatsapp, cujo redirecionamento para ambos é feito dentro do próprio app (versão mobile).
 
 <h3>Versão web</h3>
-![01](https://user-images.githubusercontent.com/44175992/85348819-1dd7c300-b4d3-11ea-99db-d49879534720.jpg) </br>
-![05](https://user-images.githubusercontent.com/44175992/85348817-1dd7c300-b4d3-11ea-9349-80f3b63ff882.jpg) </br>
-![02](https://user-images.githubusercontent.com/44175992/85348821-1e705980-b4d3-11ea-9a17-56d22d9ba910.jpg) </br>
-
-
-
+![01](https://user-images.githubusercontent.com/44175992/85349301-85424280-b4d4-11ea-851d-9a584ac0ae9e.jpg)
+![05](https://user-images.githubusercontent.com/44175992/85349303-85dad900-b4d4-11ea-900f-3ea31770e8f4.jpg)
+![02](https://user-images.githubusercontent.com/44175992/85349302-85dad900-b4d4-11ea-86db-094a0d29957f.jpg)
 
 <h3>Versão mobile</h3>
-![06](https://user-images.githubusercontent.com/44175992/85348800-131d2e00-b4d3-11ea-9905-f34f700f5b61.jpg)</br>
-![03](https://user-images.githubusercontent.com/44175992/85348803-13b5c480-b4d3-11ea-839c-f7084e28b166.jpg)</br>
-![04](https://user-images.githubusercontent.com/44175992/85348804-144e5b00-b4d3-11ea-948b-2e9a019e60a6.jpg)</br>
+
+![06](https://user-images.githubusercontent.com/44175992/85349350-a6a32e80-b4d4-11ea-8489-4b88c8bcc900.jpg)
+![03](https://user-images.githubusercontent.com/44175992/85349351-a73bc500-b4d4-11ea-9242-c22ff7e8d23e.jpg)
+![04](https://user-images.githubusercontent.com/44175992/85349353-a73bc500-b4d4-11ea-82b9-e98fe3168aa8.jpg)
+
+
+
+
+
+
+
+
