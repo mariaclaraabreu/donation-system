@@ -8,3 +8,9 @@ O intuito dessa aplicação é permitir que ongs possam divulgar casos que estã
 
  Por outro lado, o usuário interessado em ajudar, escolhe um caso e pode entrar em contato com a ong via e-mail 
  ou whatsapp, cujo redirecionamento para ambos é feito dentro do próprio app (versão mobile).
+
+<h3>Versão web</h3>
+
+
+
+<h3>Versão mobile</h3>
